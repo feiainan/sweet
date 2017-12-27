@@ -12,4 +12,5 @@ public class SweetApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SweetApplication.class, args);
 	}
+
 }
